@@ -1,0 +1,27 @@
+[
+    {
+       "id": 1,
+       "titulo": "tempo rei",
+       "artista": "Gilberto Gil",
+       "duração": "5:58"
+    },
+    {
+        "id": 2,
+        "titulo": "gratidão",
+        "artista": "Marie Gabriella",
+        "duração": "5:31"
+     },
+     {
+        "id": 3,
+        "titulo": "força estranha",
+        "artista": "Caetano veloso",
+        "duração": "3:24"
+     },
+     {
+      "id": 4,
+      "titulo": "Luz do sol",
+      "artista": "Caetano veloso",
+      "duração": "3:30"
+   }
+     
+]
